@@ -48,7 +48,7 @@ install.packages("languageserver")
 
 ## Notes & Warnings
 
-I did get some warnings that the function `write_sas()` was depreciated and to use the `write_xpt()` instead, however I we need the `SAS7BDAT` files for testing as well.  
+I did get some warnings that the function `write_sas()` was depreciated and to use the `write_xpt()` instead, however we need the `SAS7BDAT` files for testing as well.  
 
 It's possible this will break in the future if they stop supporting `write_sas()`.
 
